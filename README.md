@@ -4,6 +4,8 @@
 
 > No data ever leaves your device. You create the character. Real relationship dynamics: joy, jealousy, conflict, repair.
 
+**[📋 Task List (Notion)](https://www.notion.so/Project-Kizune-31b5c4e86b7b80989b56cc6e998ab406)** — Geliştirme görevleri, epic'ler ve ilerleme takibi.
+
 ---
 
 ## Table of Contents
@@ -270,6 +272,7 @@ SQLite FTS only does keyword matching. For RAG, the system needs **semantic simi
 
 ## Documentation
 
+- **[📋 Task List (Notion)](https://www.notion.so/Project-Kizune-31b5c4e86b7b80989b56cc6e998ab406)** — Development tasks, epics, and progress tracking. İncelemek için tıklayın.
 - **[Project_Kizuna_Sistem_Tasarimi.docx](documents/Project_Kizuna_Sistem_Tasarimi.docx)** — Full system architecture document (Turkish): database schemas, character profile structures, emotion engine, conflict/repair system, fine-tune dataset guide, and implementation details.
 
 ---
