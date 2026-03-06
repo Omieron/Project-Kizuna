@@ -13,7 +13,7 @@
 |---|------|--------|-------|
 | 1.1 | Create Flutter project (`flutter create`) | ✅ | Use org: com.kizuna or similar |
 | 1.2 | Configure `pubspec.yaml` (dependencies, min SDK) | ⬜ | Dart 3.x, Flutter 3.x |
-| 1.3 | Set up folder structure (`lib/core`, `lib/features`, `lib/data`) | ⬜ | Per architecture doc |
+| 1.3 | Set up folder structure (`lib/core`, `lib/features`, `lib/data`) | ✅ | Per architecture doc |
 | 1.4 | Add `.gitignore` for Flutter + model files | ⬜ | Exclude `.gguf`, large binaries |
 | 1.5 | Configure Android (minSdk 26, permissions) | ⬜ | Storage, microphone for later |
 | 1.6 | Configure iOS (min 16, Info.plist) | ⬜ | Background modes for later |
